@@ -1,0 +1,5 @@
+IP: 73.89.221.25   ------>   Grado de salida: 18
+IP: 185.109.34.183   ------>   Grado de salida: 18
+IP: 90.167.116.74   ------>   Grado de salida: 17
+IP: 174.190.90.229   ------>   Grado de salida: 17
+IP: 115.157.160.175   ------>   Grado de salida: 17
